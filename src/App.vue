@@ -34,7 +34,7 @@ import register from './components/popups/register.vue'
       change(event){
         this.dialogs = event[0]
         this.dialog = event[1]
-      }
+      }   
     },
     mounted(){
 
